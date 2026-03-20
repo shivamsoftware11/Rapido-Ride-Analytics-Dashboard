@@ -35,13 +35,13 @@ The goal is to transform raw ride data into meaningful insights that help in und
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Rapido Dashboard.pdf)
+![Dashboard](Rapido_Dashboard.pdf)
 
 ---
 
 ## 📁 Project Files
 - `Rapido Dashboard.pbix` → Power BI Dashboard File  
-- `Rapido Dashboard.pdf` → Dashboard Preview PDF  
+- `Rapido_Dashboard.pdf` → Dashboard Preview PDF  
 
 ---
 
